@@ -9,4 +9,8 @@
 7. Test powinien być tworzony na wysokim obserwowowalnym zachowaniu, np. trzeba znać cel funkcji żeby o niej opowiedzieć
 8. Należy oddzielać cel od szczegółów implementacji
 9. Refactoring to inwestycja, z reguły zwrot z inwestycji jest duży
+10. Dobieramy rozwiązanie do klasy problemu
+11. Start refactoringu - nazwanie problemu
+12. Boilerplate - ciągłe dodawanie tego samego kodu
+
 
