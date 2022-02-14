@@ -15,6 +15,7 @@
 13. Event storming - opis systemu za pomocą następujących po sobie zdarzeń
 14. W "big picture" opisuje się tylko istotne zmiany biznesowe
 15. As is - stan obecny
+16. To be - stan oczekiwany
 
 
 
