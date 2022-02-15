@@ -16,6 +16,10 @@
 14. W "big picture" opisuje się tylko istotne zmiany biznesowe
 15. As is - stan obecny
 16. To be - stan oczekiwany
+17. Hot spots - punkty zapalne, ryzyka - np. powolny raport
+18. Skupiamy się na celu refaktoringu a nie na narzędziu
+19. DRY - nie duplikuj logiki a nie tylko kodu
+
 
 
 
