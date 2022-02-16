@@ -19,6 +19,9 @@
 17. Hot spots - punkty zapalne, ryzyka - np. powolny raport
 18. Skupiamy się na celu refaktoringu a nie na narzędziu
 19. DRY - nie duplikuj logiki a nie tylko kodu
+20. Shotgun surgery - duplikująca się logika jest niebezpieczna, każda modyfikacja musi być przetestowana więc łatwo o pomyłkę
+21. Powtarzający się kod najlepiej analizować staycznie
+22. Nie robimy zmian jeśli będzie to "sztuka dla sztuki"
 
 
 
