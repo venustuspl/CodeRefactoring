@@ -22,6 +22,10 @@
 20. Shotgun surgery - duplikująca się logika jest niebezpieczna, każda modyfikacja musi być przetestowana więc łatwo o pomyłkę
 21. Powtarzający się kod najlepiej analizować staycznie
 22. Nie robimy zmian jeśli będzie to "sztuka dla sztuki"
+23. Powtarzający się kod najlepiej wrzucić w jedno miejsce pakiet klasę a nie kolejny utils
+24. Należy zdiagnozować obserwowalne zachowania i tam wprowadzać zmiany
+25. Bezpieczeństwo zapewniamy stworzeniem dla obserwowalnych przypadków testów integracyjnych
+
 
 
 
