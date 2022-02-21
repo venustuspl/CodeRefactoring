@@ -25,6 +25,10 @@
 23. Powtarzający się kod najlepiej wrzucić w jedno miejsce pakiet klasę a nie kolejny utils
 24. Należy zdiagnozować obserwowalne zachowania i tam wprowadzać zmiany
 25. Bezpieczeństwo zapewniamy stworzeniem dla obserwowalnych przypadków testów integracyjnych
+26. Obserwowalne zachowania nie dotykają elementów kluczowych systemu więc ich zmiana niewiele może zepsuć
+27. Pisanie testów uczy zachowania systemu
+28. Testy z wykorzystaniem metody isThrownBy assertThatExceptionOfType nie za głęboko podłączać zrefaktorowane klasy
+
 
 
 
