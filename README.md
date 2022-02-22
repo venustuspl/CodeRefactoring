@@ -28,6 +28,9 @@
 26. Obserwowalne zachowania nie dotykają elementów kluczowych systemu więc ich zmiana niewiele może zepsuć
 27. Pisanie testów uczy zachowania systemu
 28. Testy z wykorzystaniem metody isThrownBy assertThatExceptionOfType nie za głęboko podłączać zrefaktorowane klasy
+29. Test integracyjny najlepiej zastępuje duplikujący się kod testów, a drobne przypadki sprawdza się testami jednostkowymi
+30. Testujemy obserwowalne zachowania
+31. Użycie technik i narzędzi dopasujemy do projektu i jego problemów i dalszych planowanych działań z danym kodem
 
 
 
