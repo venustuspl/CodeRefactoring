@@ -33,7 +33,8 @@
 31. Użycie technik i narzędzi dopasujemy do projektu i jego problemów i dalszych planowanych działań z danym kodem
 32. Do operacji na pieniądzach zwykle stosuje się typ Integer, ale najlepsza byłaby np. klasa Money (value object)
 33. Najlepiej mieć stabliny "interfejs" tak aby zmiany w kodzie były bezpieczniejsze
-34. Stabilny interfejs sprawia, że kod pod spodem jest usuwalny, a to równie ważne jak testowalność
+34. Fail fast - trudne na początku
+35. Stabilny interfejs sprawia, że kod pod spodem jest usuwalny, a to równie ważne jak testowalność
 
 
 
