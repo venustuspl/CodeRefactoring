@@ -35,9 +35,7 @@
 33. Najlepiej mieć stabliny "interfejs" tak aby zmiany w kodzie były bezpieczniejsze
 34. Fail fast - trudne na początku
 35. Stabilny interfejs sprawia, że kod pod spodem jest usuwalny, a to równie ważne jak testowalność
-
-
-
+36. Zielone testy przy refaktoringu to zapewnienie bezpieczeństwa
 
 
 
