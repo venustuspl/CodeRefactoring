@@ -37,5 +37,5 @@
 35. Stabilny interfejs sprawia, że kod pod spodem jest usuwalny, a to równie ważne jak testowalność
 36. Zielone testy przy refaktoringu to zapewnienie bezpieczeństwa
 37. Value object to object, który nie ma stanów pobiera się go i zapisuje
-
+38. Mechanizm refleksji powstaje np. gdy nazwy klas są budowane dynamicznie w kodzie
 
