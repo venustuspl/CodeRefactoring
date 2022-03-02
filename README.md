@@ -39,4 +39,4 @@
 37. Value object to object, który nie ma stanów pobiera się go i zapisuje
 38. Mechanizm refleksji powstaje np. gdy nazwy klas są budowane dynamicznie w kodzie
 39. Testy integracyjne testują więcej niż testy jednostkowe
-
+40. Testy jednostkowe można dzielić kontekstowo
