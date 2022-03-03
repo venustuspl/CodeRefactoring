@@ -33,10 +33,11 @@
 31. Użycie technik i narzędzi dopasujemy do projektu i jego problemów i dalszych planowanych działań z danym kodem
 32. Do operacji na pieniądzach zwykle stosuje się typ Integer, ale najlepsza byłaby np. klasa Money (value object)
 33. Najlepiej mieć stabliny "interfejs" tak aby zmiany w kodzie były bezpieczniejsze
-34. Fail fast - trudne na początku
-35. Stabilny interfejs sprawia, że kod pod spodem jest usuwalny, a to równie ważne jak testowalność
-36. Zielone testy przy refaktoringu to zapewnienie bezpieczeństwa
-37. Value object to object, który nie ma stanów pobiera się go i zapisuje
-38. Mechanizm refleksji powstaje np. gdy nazwy klas są budowane dynamicznie w kodzie
-39. Testy integracyjne testują więcej niż testy jednostkowe
-40. Testy jednostkowe można dzielić kontekstowo
+35. Fail fast - trudne na początku
+36. Stabilny interfejs sprawia, że kod pod spodem jest usuwalny, a to równie ważne jak testowalność
+37. Zielone testy przy refaktoringu to zapewnienie bezpieczeństwa
+38. Value object to object, który nie ma stanów pobiera się go i zapisuje
+39. Mechanizm refleksji powstaje np. gdy nazwy klas są budowane dynamicznie w kodzie
+40. Testy integracyjne testują więcej niż testy jednostkowe
+41. Testy jednostkowe można dzielić kontekstowo
+42. Brak spójności danych występuje np. w tedy gdy kilka zależnych od siebie metod może się wywołać w innych miejscach systemu i zmienić zapisane dane
