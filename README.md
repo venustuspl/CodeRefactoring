@@ -41,3 +41,4 @@
 40. Testy integracyjne testują więcej niż testy jednostkowe
 41. Testy jednostkowe można dzielić kontekstowo
 42. Brak spójności danych występuje np. w tedy gdy kilka zależnych od siebie metod może się wywołać w innych miejscach systemu i zmienić zapisane dane
+43. Refaktoryzacja to proces stopniowy - nie jest możliwe naprawienie wszystkiego na raz 
