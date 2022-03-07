@@ -43,3 +43,5 @@
 42. Brak spójności danych występuje np. w tedy gdy kilka zależnych od siebie metod może się wywołać w innych miejscach systemu i zmienić zapisane dane
 43. Refaktoryzacja to proces stopniowy - nie jest możliwe naprawienie wszystkiego na raz
 44. Dane silnie związane to np. dane zmieniające się razem, to jest spójność
+43. W systemie powinno być 1 miejsce zmieniające spójne dane a nie np. ciąg setterow
+
