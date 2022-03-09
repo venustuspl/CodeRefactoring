@@ -45,6 +45,8 @@
 44. Dane silnie związane to np. dane zmieniające się razem, to jest spójność
 43. W systemie powinno być 1 miejsce zmieniające spójne dane a nie np. ciąg setterow
 44. Gettery są mniej szkodliwe można zostawić w kodzie, gettery nie zmieniają stanu obiektu
+45. Nazwy należy dobierać szybko i w razie coś szybko zmieniać za pomocą ide
+
 
 
 
