@@ -48,3 +48,4 @@
 45. Nazwy należy dobierać szybko i w razie coś szybko zmieniać za pomocą IDE
 46. Refactoring - zapewnić bezpieczęstwo zmiany, przywrócić enkapsulację , zaobserwować efekt , przemyśleć następne zmiany
 47. Jeśli jakiś problem nie ma określonych regół działania to będzie trudno go zrefaktorować
+48. Techniki znajdowania blokującej transakcji bazodanowej: znajomość systemu, metryki, logi, debugowanie
