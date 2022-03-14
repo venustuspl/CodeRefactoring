@@ -49,3 +49,4 @@
 46. Refactoring - zapewnić bezpieczęstwo zmiany, przywrócić enkapsulację , zaobserwować efekt , przemyśleć następne zmiany
 47. Jeśli jakiś problem nie ma określonych regół działania to będzie trudno go zrefaktorować
 48. Techniki znajdowania blokującej transakcji bazodanowej: znajomość systemu, metryki, logi, debugowanie
+49. Nazwij problem dobierz rozwiązanie
