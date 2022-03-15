@@ -50,3 +50,5 @@
 47. Jeśli jakiś problem nie ma określonych regół działania to będzie trudno go zrefaktorować
 48. Techniki znajdowania blokującej transakcji bazodanowej: znajomość systemu, metryki, logi, debugowanie
 49. Nazwij problem dobierz rozwiązanie
+50. Może być blokowanie optymistyczne lub pesymistyczne dostępu do danych ORM mają optymistyczne 
+
