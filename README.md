@@ -53,6 +53,4 @@
 50. Może być blokowanie optymistyczne lub pesymistyczne dostępu do danych ORM mają optymistyczne 
 51. Czasami dobrym rozwiązaniem będzie wyznaczenie okna technologicznego dla działań administracyjnych aby nie blokowały codziennych zadań 
 52. Podział transakcji na węższe transakcje może być najlepszym pomysłem
-
-
-
+53. Dane powiązane regułami powinny być trzymane razem 
