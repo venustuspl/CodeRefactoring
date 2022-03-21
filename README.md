@@ -1,7 +1,7 @@
 # CodeRefactoring
 
 1. Dług techniczny - należy zmniejszać najlepiej 10% nakładem pracy
-2. Refactoring zmienia strukturę implementacji bez zmiany obserwowalnych zachowań
+2. Refactoring zmienia strukturę implementacji bez zmiany obserwowalnych zachowań/
 3. Aby rozpocząć refactoring należy najpierw poznać obserwowalne funkcje aplikacji
 4. Refactoring powinien być bezpieczny
 5. Jeśli mamy stabilne testy to refakturujemy produkcję
@@ -54,3 +54,4 @@
 51. Czasami dobrym rozwiązaniem będzie wyznaczenie okna technologicznego dla działań administracyjnych aby nie blokowały codziennych zadań 
 52. Podział transakcji na węższe transakcje może być najlepszym pomysłem
 53. Dane powiązane regułami powinny być trzymane razem 
+54. Nie separujemy danych od reguł
