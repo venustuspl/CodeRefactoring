@@ -55,3 +55,4 @@
 52. Podział transakcji na węższe transakcje może być najlepszym pomysłem
 53. Dane powiązane regułami powinny być trzymane razem 
 54. Nie separujemy danych od reguł
+55. Do osobnego bytu przenosimy daną, którą ciężko było zmieniać, tak żeby nie przeszkadzała innym danym
