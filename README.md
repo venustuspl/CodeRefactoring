@@ -56,3 +56,4 @@
 53. Dane powiązane regułami powinny być trzymane razem 
 54. Nie separujemy danych od reguł
 55. Do osobnego bytu przenosimy daną, którą ciężko było zmieniać, tak żeby nie przeszkadzała innym danym
+56. Zmienialne dane trzymamy w innej klasie
