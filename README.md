@@ -57,3 +57,4 @@
 54. Nie separujemy danych od reguł
 55. Do osobnego bytu przenosimy daną, którą ciężko było zmieniać, tak żeby nie przeszkadzała innym danym
 56. Zmienialne dane trzymamy w innej klasie
+57. Refactoring etapy: a) ustalamy gdzie wprowadzić zmianę b) określamy wpływ zmiany c) zapewnieniamy bezpieczeństwo(testy) 
