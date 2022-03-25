@@ -58,3 +58,4 @@
 55. Do osobnego bytu przenosimy daną, którą ciężko było zmieniać, tak żeby nie przeszkadzała innym danym
 56. Zmienialne dane trzymamy w innej klasie
 57. Refactoring etapy: a) ustalamy gdzie wprowadzić zmianę b) określamy wpływ zmiany c) zapewnieniamy bezpieczeństwo(testy) 
+58. Podział obiektu: a) określenie sposobu podziału obiektu b) stworzenie obiektów c) podłączenie obiektów c) usunięcie danych ze starego obiektu d) sprawdzenie obesrwowalnych zachowań (green test)
