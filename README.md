@@ -59,3 +59,4 @@
 56. Zmienialne dane trzymamy w innej klasie
 57. Refactoring etapy: a) ustalamy gdzie wprowadzić zmianę b) określamy wpływ zmiany c) zapewnieniamy bezpieczeństwo(testy) 
 58. Podział obiektu: a) określenie sposobu podziału obiektu b) stworzenie obiektów c) podłączenie obiektów c) usunięcie danych ze starego obiektu d) sprawdzenie obesrwowalnych zachowań (green test)
+59. Drobna zmiana może zadziałać jak dżwignia powodującą zdecydowanie lepsze działanie systemu
