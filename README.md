@@ -62,3 +62,4 @@
 59. Drobna zmiana może zadziałać jak dżwignia powodującą zdecydowanie lepsze działanie systemu
 60. Patrzeć na zysk z refaktoringu w szerszym kontekście a nie np. w kontekście pojedynczych zapytań na bazę 
 61. Strategią migracji danych może być stworzenie zdublowanej tabeli i zastąpię starej w momencie pewności działania nowej
+62. Poprawianie błędów biznesowych przy refaktoryzacji nie jest oczywiste i należy taką sytuację przedyskutować
