@@ -65,3 +65,4 @@
 62. Poprawianie błędów biznesowych przy refaktoryzacji nie jest oczywiste i należy taką sytuację przedyskutować
 63. Rozbijać refaktoryzację na mniejsze kroki
 64. Planować refaktoryzację
+65. Mieć możliwość wycofania zmian lub rollbacku bazy
