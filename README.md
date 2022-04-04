@@ -66,3 +66,4 @@
 63. Rozbijać refaktoryzację na mniejsze kroki
 64. Planować refaktoryzację
 65. Mieć możliwość wycofania zmian lub rollbacku bazy
+66. Fail fast - najtrudniejsze na początku
