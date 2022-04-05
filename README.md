@@ -67,3 +67,4 @@
 64. Planować refaktoryzację
 65. Mieć możliwość wycofania zmian lub rollbacku bazy
 66. Fail fast - najtrudniejsze na początku
+67. Przeglądanie stosu wywołań pozwala odnaleźć miejsce wykorzystania konceptu w systemie
