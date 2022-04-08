@@ -69,4 +69,5 @@
 66. Fail fast - najtrudniejsze na początku
 67. Przeglądanie stosu wywołań pozwala odnaleźć miejsce wykorzystania konceptu w systemie
 68. Przed przystąpieniem do refaktoringu należy sprawdzić ciągłość logiki biznesowej i procesowej, np. prześledzić proces reklamacji czyli możliwych wydarzeń
+69. Logika walidacyjna - opisuje ogólne sprawdzenie poprawności danych
 
