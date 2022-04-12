@@ -71,5 +71,5 @@
 68. Przed przystąpieniem do refaktoringu należy sprawdzić ciągłość logiki biznesowej i procesowej, np. prześledzić proces reklamacji czyli możliwych wydarzeń
 69. Logika walidacyjna - opisuje ogólne sprawdzenie poprawności danych
 70. Logika biznesowa - opisuje spójne przeprowadzenie zmiany stanu systemu
-
+71. Jeśli logiki na siebie się nakładają to najlepiej blokować ustaloną część procesu podczas wykonywania na bazie
 
