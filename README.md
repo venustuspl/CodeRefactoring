@@ -73,5 +73,6 @@
 70. Logika biznesowa - opisuje spójne przeprowadzenie zmiany stanu systemu
 71. Jeśli logiki na siebie się nakładają to najlepiej blokować ustaloną część procesu podczas wykonywania na bazie
 72. Osobne logiki należy enkapsulować do odobnych obiektów
+73. Jeśli zwiększamy dostępność do plików to krócej blokujemy dostęp do danych
 
 
