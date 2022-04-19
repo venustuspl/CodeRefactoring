@@ -75,3 +75,4 @@
 72. Osobne logiki należy enkapsulować do odobnych obiektów
 73. Jeśli zwiększamy dostępność do plików to krócej blokujemy dostęp do danych
 74. Logikę domenową należy zamknąć w dedykowanym obiekcie wtedy zmiany będą spójne 
+75. Logikę procesową należy umieścić w warstwie wyższej, serwisie lub dedykowanym obiekcie
