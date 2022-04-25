@@ -79,4 +79,5 @@
 76. Mnogość reprezetacji to jeśli np. obiekt biznesowy może być ustawiany albo za pomocą flagi albo daty - np. ważność mil punktowych
 77. Jeśli reguła jest rozpięta na wiele obiektów to najlepiej stworzyć stabilny interfejs
 78. Aby nie mapować danych można je przechowywać w JSON
+79. Wizualizacja przypadków może uprościć refaktoryzację
 
