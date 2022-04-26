@@ -80,4 +80,5 @@
 77. Jeśli reguła jest rozpięta na wiele obiektów to najlepiej stworzyć stabilny interfejs
 78. Aby nie mapować danych można je przechowywać w JSON
 79. Wizualizacja przypadków może uprościć refaktoryzację
+80. Warto odkryte słownictwo od razu zmieniać w systemie to zwiększy zrozumienie systemu legacy
 
