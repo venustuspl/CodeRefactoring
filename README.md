@@ -83,3 +83,5 @@
 80. Warto odkryte słownictwo od razu zmieniać w systemie to zwiększy zrozumienie systemu legacy
 81. VO - value object
 82. Po refaktoryzacji funkcje stają się addytywne czyli można je łatwo dodać bez zmiany istniejącego kodu
+83. Naprawa klas na niższym poziome pozwoli łatwiej naprawić kod na wyższym poziomie
+
