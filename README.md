@@ -85,5 +85,6 @@
 82. Po refaktoryzacji funkcje stają się addytywne czyli można je łatwo dodać bez zmiany istniejącego kodu
 83. Naprawa klas na niższym poziome pozwoli łatwiej naprawić kod na wyższym poziomie
 84. Separuj to co zmienne od tego co stabilne
+85. Zmienność kodu w metodzie można rozwiązać fabryką strategii
 
 
