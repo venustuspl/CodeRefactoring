@@ -86,5 +86,4 @@
 83. Naprawa klas na niższym poziome pozwoli łatwiej naprawić kod na wyższym poziomie
 84. Separuj to co zmienne od tego co stabilne
 85. Zmienność kodu w metodzie można rozwiązać fabryką strategii
-
-
+86. Do wyboru strategii najlepiej użyć wspólny parametr, który będzie je wyróżniał 
