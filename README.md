@@ -87,3 +87,4 @@
 84. Separuj to co zmienne od tego co stabilne
 85. Zmienność kodu w metodzie można rozwiązać fabryką strategii
 86. Do wyboru strategii najlepiej użyć wspólny parametr, który będzie je wyróżniał 
+87. Aggregate wzorzec jednostki, która zawiera w sobie spójną zmianę systemu
