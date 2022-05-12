@@ -90,3 +90,4 @@
 87. Aggregate wzorzec jednostki, która zawiera w sobie spójną zmianę systemu
 88. Domain Driven Design to wzorzec agregatów
 89. Event Storming może służyć do namierzania agregatów w systemie - jednostek spójnej zmiany
+90. Przy modelowaniu reguł warto skupic się na elementach niezmiennych systemu 
