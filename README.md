@@ -91,3 +91,4 @@
 88. Domain Driven Design to wzorzec agregatów
 89. Event Storming może służyć do namierzania agregatów w systemie - jednostek spójnej zmiany
 90. Przy modelowaniu reguł warto skupic się na elementach niezmiennych systemu 
+91. Kod zaczynamy refaktorować lokalnie bo czasami ciężko zrozumieć całość
