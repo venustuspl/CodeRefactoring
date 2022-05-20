@@ -95,3 +95,4 @@
 92. ORM w trybie Lazy nie robi zapytania o ile to nie jest potrzebne
 93. Problem N+1 to najczęściej wąskie gardło każdej aplikacji
 94. Eeager - wyciągnięcie dużej ilości danych, raport
+95. Lazy - używamy gdy pobieramy wycinek danych
