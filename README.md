@@ -96,3 +96,4 @@
 93. Problem N+1 to najczęściej wąskie gardło każdej aplikacji
 94. Eeager - wyciągnięcie dużej ilości danych, raport
 95. Lazy - używamy gdy pobieramy wycinek danych
+96. Warto czasem użyć bezpośrednio SQL zamiast ORM
