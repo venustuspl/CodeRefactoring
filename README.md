@@ -97,3 +97,5 @@
 94. Eeager - wyciągnięcie dużej ilości danych, raport
 95. Lazy - używamy gdy pobieramy wycinek danych
 96. Warto czasem użyć bezpośrednio SQL zamiast ORM
+97. Dto jest połączy kontraktem z encją 
+
