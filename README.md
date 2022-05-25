@@ -98,4 +98,5 @@
 95. Lazy - używamy gdy pobieramy wycinek danych
 96. Warto czasem użyć bezpośrednio SQL zamiast ORM
 97. Dto jest połączy kontraktem z encją 
+98. Należy przemyśleć czy wszystkie dane muszą być transportowane poprzez Dto 
 
