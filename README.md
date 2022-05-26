@@ -99,4 +99,4 @@
 96. Warto czasem użyć bezpośrednio SQL zamiast ORM
 97. Dto jest połączy kontraktem z encją 
 98. Należy przemyśleć czy wszystkie dane muszą być transportowane poprzez Dto 
-
+99. Docker run - uruchomienienie contenera np. pobranego z huba, zawsze warto przemapować porty aby kontener dziąłał lokalnie 
