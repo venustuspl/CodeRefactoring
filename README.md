@@ -101,3 +101,5 @@
 98. Należy przemyśleć czy wszystkie dane muszą być transportowane poprzez Dto 
 99. Docker run - uruchomienienie contenera np. pobranego z huba, zawsze warto przemapować porty aby kontener dziąłał lokalnie 
 100. Podczas refaktoringu ważne jest wersjonowanie - api/v1/movies
+101. Warto sprawdzać kod źródłowy używanych adnotacji
+
