@@ -103,3 +103,4 @@
 100. Podczas refaktoringu ważne jest wersjonowanie - api/v1/movies
 101. Warto sprawdzać kod źródłowy używanych adnotacji
 102. Zalecany jest update za pomocą setów
+103. Nie dotykamy problematycznego kodu tylko go wymieniamy
