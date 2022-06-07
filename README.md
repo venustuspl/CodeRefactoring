@@ -106,3 +106,4 @@
 103. Nie dotykamy problematycznego kodu tylko go wymieniamy
 104. Grennfield - nowy system
 105. Brownfield - legacy
+106. Podpięcie Greenfield w Brownfield podnosi morale
