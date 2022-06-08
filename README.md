@@ -107,3 +107,4 @@
 104. Grennfield - nowy system
 105. Brownfield - legacy
 106. Podpięcie Greenfield w Brownfield podnosi morale
+107. Da się przepisać system bez całościowego Rewrite, można nie zaczynać od zera
