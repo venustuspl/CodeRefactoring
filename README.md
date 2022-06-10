@@ -109,3 +109,5 @@
 106. Podpięcie Greenfield w Brownfield podnosi morale
 107. Da się przepisać system bez całościowego Rewrite, można nie zaczynać od zera
 108. Napisanie nowego query bez frameworka może być łatwiejsze
+109. Profilowanie aplikacji - mierzenie wydajności, warto wiedzieć co mierzymy i gdzie mierzymy
+
