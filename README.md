@@ -112,4 +112,4 @@
 109. Profilowanie aplikacji - mierzenie wydajności, warto wiedzieć co mierzymy i gdzie mierzymy
 110. Utrzymywanie 2 modeli równoległych starego i nowego podczas refaktoryzacji jest najbezpieczniejsze 
 111. Microcykle refaktoryzacji są bezpieczne 
-
+112. Dużo łatwiej podłączyć drugi równoległy model jeśli ten pierwszy ma abstrakcję i dobre API
