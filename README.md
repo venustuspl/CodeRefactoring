@@ -113,5 +113,6 @@
 110. Utrzymywanie 2 modeli równoległych starego i nowego podczas refaktoryzacji jest najbezpieczniejsze 
 111. Microcykle refaktoryzacji są bezpieczne 
 112. Dużo łatwiej podłączyć drugi równoległy model jeśli ten pierwszy ma abstrakcję i dobre API
-113. What are feature flags? Feature flags (also commonly known as feature toggles) is a software engineering technique that turns select functionality on and off during runtime, without deploying new code.
+113. What are feature flags? Feature flags (also commonly known as feature toggles) is a software engineering technique that turns select functionality on and off during runtime, without deploying new code
+114. Rekoncyliacja danych to ich porównanie systemowe
 
