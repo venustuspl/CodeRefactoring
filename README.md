@@ -115,4 +115,5 @@
 112. Dużo łatwiej podłączyć drugi równoległy model jeśli ten pierwszy ma abstrakcję i dobre API
 113. What are feature flags? Feature flags (also commonly known as feature toggles) is a software engineering technique that turns select functionality on and off during runtime, without deploying new code
 114. Rekoncyliacja danych to ich porównanie systemowe
+115. Asynchroniczne odpytanie modelu czyli drugi model nie czeka
 
