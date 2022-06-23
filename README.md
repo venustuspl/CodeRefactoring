@@ -117,4 +117,5 @@
 114. Rekoncyliacja danych to ich porównanie systemowe
 115. Asynchroniczne odpytanie modelu czyli drugi model nie czeka
 116. Można oddzielać odczyty od zapisów w cache
+117. Do szybszego odczytu danych można utworzyć dedykowany model odczytowy z szczegółowo wybranymi strukturami danych
 
