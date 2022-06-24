@@ -118,4 +118,5 @@
 115. Asynchroniczne odpytanie modelu czyli drugi model nie czeka
 116. Można oddzielać odczyty od zapisów w cache
 117. Do szybszego odczytu danych można utworzyć dedykowany model odczytowy z szczegółowo wybranymi strukturami danych
+118. W myśl zasady wszystko albo nic - oprócz zmian na bazie powinna być też zapisana przyczyna tych zmian
 
