@@ -120,4 +120,4 @@
 117. Do szybszego odczytu danych można utworzyć dedykowany model odczytowy z szczegółowo wybranymi strukturami danych
 118. W myśl zasady wszystko albo nic - oprócz zmian na bazie powinna być też zapisana przyczyna tych zmian
 119. Warto dokumentować podejmowane decyzje
-
+120. Jeśli mniejsze zmiany są możliwe to warto je wykonywać
