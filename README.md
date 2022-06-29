@@ -121,3 +121,4 @@
 118. W myśl zasady wszystko albo nic - oprócz zmian na bazie powinna być też zapisana przyczyna tych zmian
 119. Warto dokumentować podejmowane decyzje
 120. Jeśli mniejsze zmiany są możliwe to warto je wykonywać
+121. Miej dane i patrz w dane
