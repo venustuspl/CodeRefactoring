@@ -123,3 +123,4 @@
 120. Jeśli mniejsze zmiany są możliwe to warto je wykonywać
 121. Miej dane i patrz w dane
 122. Obserwować nawet 5% danych
+123. Należy obserwować dane nawet w długich odstępach
