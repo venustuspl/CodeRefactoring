@@ -124,3 +124,4 @@
 121. Miej dane i patrz w dane
 122. Obserwować nawet 5% danych
 123. Należy obserwować dane nawet w długich odstępach
+124. Zwizualizowane dane są najlepsze do obserwacji
