@@ -126,3 +126,4 @@
 123. Należy obserwować dane nawet w długich odstępach
 124. Zwizualizowane dane są najlepsze do obserwacji
 125. Grafowa baza danych to baza, która używa grafu do zapisywania danych i połączeń między nimi
+126. Pojawienie się rekurencji w kodzie powinno wzbudzić czujność, może to np. zwiększyć zużycie procesora
