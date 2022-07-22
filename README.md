@@ -128,5 +128,6 @@
 125. Grafowa baza danych to baza, która używa grafu do zapisywania danych i połączeń między nimi
 126. Pojawienie się rekurencji w kodzie powinno wzbudzić czujność, może to np. zwiększyć zużycie procesora
 127. Command/Query Responsibility Segregation a potocznie po prostu CQRS to wzorzec projektowy, który jak sama nazwa na to wskazuje, wprowawdza pewną segregację odpowiedzialności:
-rozkazów (ang. command) – dla operacji które modyfikują dane
-zapytań (ang. query) – dla operacji które odczytują dane
+- rozkazów (ang. command) – dla operacji które modyfikują dane
+- zapytań (ang. query) – dla operacji które odczytują dane
+128. Osoba techniczna nie powinna szeżyć defetyzmu
