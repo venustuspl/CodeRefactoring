@@ -131,3 +131,4 @@
 - rozkazów (ang. command) – dla operacji które modyfikują dane
 - zapytań (ang. query) – dla operacji które odczytują dane
 128. Osoba techniczna nie powinna szeżyć defetyzmu
+129. W zespole należy dopasować komunikację techniczną do nietechnicznej
