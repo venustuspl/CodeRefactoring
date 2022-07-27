@@ -132,3 +132,4 @@
 - zapytań (ang. query) – dla operacji które odczytują dane
 128. Osoba techniczna nie powinna szeżyć defetyzmu
 129. W zespole należy dopasować komunikację techniczną do nietechnicznej
+130. Dopasować się do poziomu szczegółowości rozmówcy dopóki nie umyka sedno problemu
