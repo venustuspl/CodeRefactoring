@@ -133,3 +133,4 @@
 128. Osoba techniczna nie powinna szeżyć defetyzmu
 129. W zespole należy dopasować komunikację techniczną do nietechnicznej
 130. Dopasować się do poziomu szczegółowości rozmówcy dopóki nie umyka sedno problemu
+131. Zawsze należy się zastanowić się czy to będzie najlepszy moment na drążenie szczegółów
