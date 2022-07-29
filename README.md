@@ -134,3 +134,4 @@
 129. W zespole należy dopasować komunikację techniczną do nietechnicznej
 130. Dopasować się do poziomu szczegółowości rozmówcy dopóki nie umyka sedno problemu
 131. Zawsze należy się zastanowić się czy to będzie najlepszy moment na drążenie szczegółów
+132. Ludzie dzielą się na wewnętrzne(decyzje podejmują w wyniku własnego doświadczenia) i zewnętrzne źródła referencji(decyzje podejmują po wysłuchaniu opinii innych)
