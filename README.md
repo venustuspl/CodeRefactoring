@@ -137,3 +137,4 @@
 132. Ludzie dzielą się na wewnętrzne(decyzje podejmują w wyniku własnego doświadczenia) i zewnętrzne źródła referencji(decyzje podejmują po wysłuchaniu opinii innych)
 133. Dla osób z wewnętrznym źródłem referencji proponujemy eksperyment
 134. Dla osób z zewnętrznym źródłem referencji zbieramy dane uwiarygodniające, sterujemy pytaniami
+135. IT i biznes są nastawione na wewnętrzne źródło referencji
