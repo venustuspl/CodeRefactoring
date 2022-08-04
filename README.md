@@ -139,3 +139,4 @@
 134. Dla osób z zewnętrznym źródłem referencji zbieramy dane uwiarygodniające, sterujemy pytaniami
 135. IT i biznes są nastawione na wewnętrzne źródło referencji
 136. Umiejętności komunikacyjne najlepiej ćwiczyć np. w scenkach
+137. Najpierw opisujemy problem a później dopasujemy komunikację np. do osób do których piszesz (hr, biznes)
