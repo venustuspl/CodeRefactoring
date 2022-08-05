@@ -140,3 +140,4 @@
 135. IT i biznes są nastawione na wewnętrzne źródło referencji
 136. Umiejętności komunikacyjne najlepiej ćwiczyć np. w scenkach
 137. Najpierw opisujemy problem a później dopasujemy komunikację np. do osób do których piszesz (hr, biznes)
+138. Są osoby nastawione na zasady i pracujące wg. zasad i procedur(głównie osoby techniczne)
