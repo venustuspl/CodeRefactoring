@@ -142,3 +142,4 @@
 137. Najpierw opisujemy problem a później dopasujemy komunikację np. do osób do których piszesz (hr, biznes)
 138. Są osoby nastawione na zasady i pracujące wg. zasad i procedur(głównie osoby techniczne)
 139. Są też osoby nastawione na możliwości, ale one niechętnie trzymają się zasad
+140. Plan działania powinien dopasowany do osób, które będą odbiorcami danego planu (np. osoby techniczne, osoby nastawione na możliwości, na cel, proaktywne, reaktywne)
