@@ -144,3 +144,4 @@
 139. Są też osoby nastawione na możliwości, ale one niechętnie trzymają się zasad
 140. Plan działania powinien dopasowany do osób, które będą odbiorcami danego planu (np. osoby techniczne, osoby nastawione na możliwości, na cel, proaktywne, reaktywne)
 141. Biznes jest nastawiony na komunikację: “oni”
+142. IT(osoby techniczne) są nastawione na komunikację “ja”
