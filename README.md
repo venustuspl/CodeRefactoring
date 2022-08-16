@@ -145,3 +145,4 @@
 140. Plan działania powinien dopasowany do osób, które będą odbiorcami danego planu (np. osoby techniczne, osoby nastawione na możliwości, na cel, proaktywne, reaktywne)
 141. Biznes jest nastawiony na komunikację: “oni”
 142. IT(osoby techniczne) są nastawione na komunikację “ja”
+143. Użycie metaprogramów należy dobierać do kontekstu problemu
