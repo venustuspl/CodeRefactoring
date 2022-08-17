@@ -146,3 +146,4 @@
 141. Biznes jest nastawiony na komunikację: “oni”
 142. IT(osoby techniczne) są nastawione na komunikację “ja”
 143. Użycie metaprogramów należy dobierać do kontekstu problemu
+144. Kompetencję buduję się poprzez powtarzalną ciągłą naukę
