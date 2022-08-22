@@ -148,3 +148,4 @@
 143. Użycie metaprogramów należy dobierać do kontekstu problemu
 144. Kompetencję buduję się poprzez powtarzalną ciągłą naukę
 145. Model braci Dreyfus - np. można go użyć do oceny poziomu pracownika od nowicjusza do eksperta
+146. Początkujący przy wyznaczonych zadaniach muszą otrzymać konkretne informacje
