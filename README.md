@@ -149,3 +149,4 @@
 144. Kompetencję buduję się poprzez powtarzalną ciągłą naukę
 145. Model braci Dreyfus - np. można go użyć do oceny poziomu pracownika od nowicjusza do eksperta
 146. Początkujący przy wyznaczonych zadaniach muszą otrzymać konkretne informacje
+147. Osoby kompetentne otrzymują szerszy zakres możliwości wykonania zadania i mogą rozwiązania oprzeć na własnych doświadczeniach
