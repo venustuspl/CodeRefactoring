@@ -152,3 +152,4 @@
 147. Osoby kompetentne otrzymują szerszy zakres możliwości wykonania zadania i mogą rozwiązania oprzeć na własnych doświadczeniach
 148. Cykl wprowadzania rozwiązań -> doświadczenie -> refleksja -> konceptualizacja -> stosowanie
 149. Konceptualizacja, (ang. case conceptualization lub case formulation) to proces obejmujący przetwarzanie gromadzonej wiedzy o przebiegach procesów organizacyjnych w pojęcia, definicje i określenia, wykorzystywane następnie do celów identyfikacyjnych i diagnostycznych
+150. Koncept - pomysł
