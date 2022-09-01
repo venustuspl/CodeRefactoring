@@ -154,3 +154,4 @@
 149. Konceptualizacja, (ang. case conceptualization lub case formulation) to proces obejmujący przetwarzanie gromadzonej wiedzy o przebiegach procesów organizacyjnych w pojęcia, definicje i określenia, wykorzystywane następnie do celów identyfikacyjnych i diagnostycznych
 150. Koncept - pomysł
 151. Nie oceniać - zadawać pytania
+152. Od ogółu do szczegółu
