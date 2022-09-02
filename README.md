@@ -155,3 +155,4 @@
 150. Koncept - pomysł
 151. Nie oceniać - zadawać pytania
 152. Od ogółu do szczegółu
+153. Nąrzędzia do analizy kodu są przydatne w dużych projektach, np. Code scene
