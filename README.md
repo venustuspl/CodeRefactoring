@@ -156,3 +156,4 @@
 151. Nie oceniać - zadawać pytania
 152. Od ogółu do szczegółu
 153. Nąrzędzia do analizy kodu są przydatne w dużych projektach, np. Code scene
+154. Change coupling - wiązanie plików na przestrzeni czasu, np. częste odwołanie do innych obiektów w danym obiekcie
