@@ -158,3 +158,4 @@
 153. Nąrzędzia do analizy kodu są przydatne w dużych projektach, np. Code scene
 154. Change coupling - wiązanie plików na przestrzeni czasu, np. częste odwołanie do innych obiektów w danym obiekcie
 155. Change coupling może świadczyć o powtarzaniu logiki lub o pewnym trendzie
+156. God object - klasy które robią wszystko
