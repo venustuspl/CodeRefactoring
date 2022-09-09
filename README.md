@@ -160,3 +160,4 @@
 155. Change coupling może świadczyć o powtarzaniu logiki lub o pewnym trendzie
 156. God object - klasy które robią wszystko
 157. Kod stabilny nie stanowi tak dużego problemu
+158. Przydatne są narzędzia heurystyczne - odkrycia na podstawie znanych faktów
