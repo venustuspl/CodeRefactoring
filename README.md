@@ -161,3 +161,4 @@
 156. God object - klasy które robią wszystko
 157. Kod stabilny nie stanowi tak dużego problemu
 158. Przydatne są narzędzia heurystyczne - odkrycia na podstawie znanych faktów
+159. Jeśli jakaś klasa diametralnie zwiększyła swoją wielkośc to warto się przyjrzeć comitomi, który ją spowodował
