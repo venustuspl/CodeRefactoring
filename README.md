@@ -162,3 +162,4 @@
 157. Kod stabilny nie stanowi tak dużego problemu
 158. Przydatne są narzędzia heurystyczne - odkrycia na podstawie znanych faktów
 159. Jeśli jakaś klasa diametralnie zwiększyła swoją wielkośc to warto się przyjrzeć comitomi, który ją spowodował
+160. Kohezja i coupling - to 2 najważniejsze pojęcia w refaktoringu
