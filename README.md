@@ -164,3 +164,4 @@
 159. Jeśli jakaś klasa diametralnie zwiększyła swoją wielkośc to warto się przyjrzeć comitomi, który ją spowodował
 160. Kohezja i coupling - to 2 najważniejsze pojęcia w refaktoringu
 161. CBO - coupling between objects
+162. Obiekty Dto mają niską kohezję
