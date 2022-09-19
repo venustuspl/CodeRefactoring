@@ -165,3 +165,4 @@
 160. Kohezja i coupling - to 2 najważniejsze pojęcia w refaktoringu
 161. CBO - coupling between objects
 162. Obiekty Dto mają niską kohezję
+163. Kohezja mówi o ttym, w jakim stopniu klasa robi tylko to, za co jest odpowiedzialna
