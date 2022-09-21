@@ -167,3 +167,4 @@
 162. Obiekty Dto mają niską kohezję
 163. Kohezja mówi o ttym, w jakim stopniu klasa robi tylko to, za co jest odpowiedzialna
 164. Testy mutacjne - wprwadzanie i mutacji do kodu i sprawdzanie czy wynik testu jest zielony, jeśli jest tzn. został znaleziony mutant
+165. Archetyp to wzorzec logiki domenowej
