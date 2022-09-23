@@ -169,3 +169,4 @@
 164. Testy mutacjne - wprwadzanie i mutacji do kodu i sprawdzanie czy wynik testu jest zielony, jeśli jest tzn. został znaleziony mutant
 165. Archetyp to wzorzec logiki domenowej
 166. Wzorzec analityczny to wyabstahowany model z konkretnych domen biznesowych
+167. Dobrze dobrany model sprawi, że aplikacja zestarzeje się znacznie później 
