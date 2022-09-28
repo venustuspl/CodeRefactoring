@@ -171,3 +171,4 @@
 166. Wzorzec analityczny to wyabstahowany model z konkretnych domen biznesowych
 167. Dobrze dobrany model sprawi, że aplikacja zestarzeje się znacznie później 
 168. Im bardziej skomplokowany kod tym trudniej go rozwijać 
+169. Wyabstrachowanie - wydzielenie istotnych elementów z danego kontekstu
