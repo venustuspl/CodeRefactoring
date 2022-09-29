@@ -172,3 +172,4 @@
 167. Dobrze dobrany model sprawi, że aplikacja zestarzeje się znacznie później 
 168. Im bardziej skomplokowany kod tym trudniej go rozwijać 
 169. Wyabstrachowanie - wydzielenie istotnych elementów z danego kontekstu
+170. Pytanie > problem > kontekst > model
