@@ -174,3 +174,4 @@
 169. Wyabstrachowanie - wydzielenie istotnych elementów z danego kontekstu
 170. Pytanie > problem > kontekst > model
 171. Wzorzec analityczny Party – odkrywanie krok po kroku kolejnych rozwiązań
+172. Należy stosować single Point of truth zamiast single Point of party
