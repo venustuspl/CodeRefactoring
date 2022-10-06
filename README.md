@@ -177,3 +177,4 @@
 172. Należy stosować single Point of truth zamiast single Point of party
 173. Mając dwa mappery jesteśmy bezpieczni w razie awarii
 174. Zamiast nazwy klasy Role można użyć Handler
+175. Programowanie proceduralne przydaje się tam gdzie konfiguracja zmienia się dynamicznie a istnieje stabilna struktura danych
