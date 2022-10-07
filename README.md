@@ -178,3 +178,4 @@
 173. Mając dwa mappery jesteśmy bezpieczni w razie awarii
 174. Zamiast nazwy klasy Role można użyć Handler
 175. Programowanie proceduralne przydaje się tam gdzie konfiguracja zmienia się dynamicznie a istnieje stabilna struktura danych
+176. Programowanie obiektowe wykorzystuje się tam gdzie są stabilne zachowania,a niestabilna struktura danych
