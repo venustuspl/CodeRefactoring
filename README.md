@@ -180,3 +180,4 @@
 175. Programowanie proceduralne przydaje się tam gdzie konfiguracja zmienia się dynamicznie a istnieje stabilna struktura danych
 176. Programowanie obiektowe wykorzystuje się tam gdzie są stabilne zachowania,a niestabilna struktura danych
 177. Serializacja to wbudowany mechanizm zapisywania obiektów, który pozwala na binarny zapis całego drzewa obiektów. Oznacza to tyle, że jeśli mamy obiekt X, który posiada referencję do obiektu Y to serializując X również Y zostanie automatycznie zapisany w strumieniu wyjściowym.
+178. Serializacja służy tylko do chwilowego przechowywania obiektów
