@@ -184,3 +184,4 @@
 179. Można używać zawieranie zamiast dziedziczenia
 180. Podział na moduły ułatwia poruszanie się po aplikacji 
 181. Zamiast duplikować logikę w nowej klasie można stworzyć pole atrybut z ciągiem znaków
+182. W bazie danych możemy sobie pozwolić na zapis nazw klas i parametrów konstruktorów a nie ich kodów i obiektów zserializowanych
