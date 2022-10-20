@@ -186,3 +186,5 @@
 181. Zamiast duplikować logikę w nowej klasie można stworzyć pole atrybut z ciągiem znaków
 182. W bazie danych możemy sobie pozwolić na zapis nazw klas i parametrów konstruktorów a nie ich kodów i obiektów zserializowanych
 183. Dzielimy konteksty poprzez kluczowe pytania
+184. Dzielimy konteksty poprzez kluczowe pytania
+185. Wykorzystywać automatyczne transformaty z IDE - np. extrachowanie kody do metod, bezpośredni return nie używanych zmiennych
