@@ -188,3 +188,4 @@
 183. Dzielimy konteksty poprzez kluczowe pytania
 184. Dzielimy konteksty poprzez kluczowe pytania
 185. Wykorzystywać automatyczne transformaty z IDE - np. extrachowanie kody do metod, bezpośredni return nie używanych zmiennych
+186. Teoria rozbitych okien (teoria zbitej szyby) – koncepcja w kryminologii i socjologii miasta zakładająca, że brak reakcji na łamanie mniej ważnych norm społecznych, np. tłuczenia szyb w oknach w danej dzielnicy, sprzyja wzrostowi przestępczości i łamaniu innych norm na zasadzie zaraźliwości.(metaforycznie dotyczy kodu w IT)
