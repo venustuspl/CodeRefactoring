@@ -191,3 +191,4 @@
 186. Teoria rozbitych okien (teoria zbitej szyby) – koncepcja w kryminologii i socjologii miasta zakładająca, że brak reakcji na łamanie mniej ważnych norm społecznych, np. tłuczenia szyb w oknach w danej dzielnicy, sprzyja wzrostowi przestępczości i łamaniu innych norm na zasadzie zaraźliwości.(metaforycznie dotyczy kodu w IT)
 187. Z reguły psujący się kod można rozpoznać wcześniej poprzez tzw zapachy 
 188. Różne funkcje najlepiej łączyć interfejsami
+189. Brak wczesnej refaktoryzacji jest źródłem problemów a pozna refaktoryzacja jest źródłem kosztów 
