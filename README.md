@@ -192,3 +192,4 @@
 187. Z reguły psujący się kod można rozpoznać wcześniej poprzez tzw zapachy 
 188. Różne funkcje najlepiej łączyć interfejsami
 189. Brak wczesnej refaktoryzacji jest źródłem problemów a pozna refaktoryzacja jest źródłem kosztów 
+190. Modele powinny nadążać za zmianami
