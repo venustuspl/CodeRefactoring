@@ -197,3 +197,4 @@
 192. Jeśli dobierze się niedopasowany model do rzeczywistości to refaktoryzacja może być trudna
 193. Arch unit - może dokumentować konwencje na które się umówilismy i sprawdzać
 194. Arch może np. sprawdzać czy pola są prywatne - zasada enkapsulacji
+195. Nie upychać nić w kodzie na siłę - YAGNI
