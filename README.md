@@ -198,3 +198,4 @@
 193. Arch unit - może dokumentować konwencje na które się umówilismy i sprawdzać
 194. Arch może np. sprawdzać czy pola są prywatne - zasada enkapsulacji
 195. Nie upychać nić w kodzie na siłę - YAGNI
+196. KiSS - prostota kodu - możemy sprawdzić prostotę kodu poprzez code review
