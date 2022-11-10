@@ -200,3 +200,4 @@
 195. Nie upychać nić w kodzie na siłę - YAGNI
 196. KiSS - prostota kodu - możemy sprawdzić prostotę kodu poprzez code review
 197. DRY - używać metody prywatnych, bibliotek, wyrażeń lambda
+198. 3 podstawy dobrego programisty- Clean code - Testy - Code review
