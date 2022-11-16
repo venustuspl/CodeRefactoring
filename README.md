@@ -203,3 +203,4 @@
 198. 3 podstawy dobrego programisty- Clean code - Testy - Code review
 199. Dzięki modularyzacji: łatwiej testować kod, zrozumieć system, łatwiej testować ale jej wprowadzenie przedłuża czas wdrażania systemu 
 200. Godclass klasa z której mieszają się różne logiki biznesowe - niepotrzebnie 
+201. Podział projektu na moduły to nie modularyzacja
