@@ -205,3 +205,4 @@
 200. Godclass klasa z której mieszają się różne logiki biznesowe - niepotrzebnie 
 201. Podział projektu na moduły to nie modularyzacja
 202. Podział na pakiety to pseudo modularyzacja
+203. Najtrudniejsze w modularyzacji jest stawianie granic
