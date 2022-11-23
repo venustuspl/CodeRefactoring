@@ -208,3 +208,4 @@
 203. Najtrudniejsze w modularyzacji jest stawianie granic
 204. Najlepiej oddzielić elementy stabilne od często zmieniających się 
 205. Warto zwrócić uwagę na topologię zespołów, czyli np. wolniejszy zespół może blokować szybszy zespół 
+206. Podczas refaktoryzacji należy również poprawić testy jednostkowe
