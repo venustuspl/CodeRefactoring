@@ -210,3 +210,4 @@
 205. Warto zwrócić uwagę na topologię zespołów, czyli np. wolniejszy zespół może blokować szybszy zespół 
 206. Podczas refaktoryzacji należy również poprawić testy jednostkowe
 207. Klasę można rozbijać głównymi pytaniami np. Ile to kosztuje gdzie to teraz jest
+208. Badania z wykorzystaniem języka nazywa się analiza lingwistyczna
