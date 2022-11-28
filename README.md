@@ -211,3 +211,4 @@
 206. Podczas refaktoryzacji należy również poprawić testy jednostkowe
 207. Klasę można rozbijać głównymi pytaniami np. Ile to kosztuje gdzie to teraz jest
 208. Badania z wykorzystaniem języka nazywa się analiza lingwistyczna
+209. Bounded Context definiuje granice podsystemu i jest wzorcem
