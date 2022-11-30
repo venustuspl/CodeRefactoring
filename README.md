@@ -213,3 +213,4 @@
 208. Badania z wykorzystaniem języka nazywa się analiza lingwistyczna
 209. Bounded Context definiuje granice podsystemu i jest wzorcem
 210. Techniki modularyzacji można używać naprzemiennie 
+211. Z danego serwisu można wyodrębnić byty, które można przenieść do kolejnego modulu
