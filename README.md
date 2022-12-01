@@ -214,3 +214,4 @@
 209. Bounded Context definiuje granice podsystemu i jest wzorcem
 210. Techniki modularyzacji można używać naprzemiennie 
 211. Z danego serwisu można wyodrębnić byty, które można przenieść do kolejnego modulu
+212. Moduły można sprawdzać za pomocą badania autonomii jak również łatwości implementacji nowych funkcji w danym bycie
