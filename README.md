@@ -217,3 +217,4 @@
 212. Moduły można sprawdzać za pomocą badania autonomii jak również łatwości implementacji nowych funkcji w danym bycie
 213. Event Storming może służyć jako narzędzie do znajdowania granic kontekstów
 214. Działanie systemu można rozpoznać za pomocą perspektyw
+215. Pivotal event - zdarzenie określające ważną funkcję w systemie 
