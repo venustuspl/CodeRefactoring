@@ -218,3 +218,4 @@
 213. Event Storming może służyć jako narzędzie do znajdowania granic kontekstów
 214. Działanie systemu można rozpoznać za pomocą perspektyw
 215. Pivotal event - zdarzenie określające ważną funkcję w systemie 
+216. Warstwy odpowiedzialności : możliwości operacji polityki decyzji zobowiązań 
