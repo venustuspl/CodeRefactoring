@@ -219,3 +219,4 @@
 214. Działanie systemu można rozpoznać za pomocą perspektyw
 215. Pivotal event - zdarzenie określające ważną funkcję w systemie 
 216. Warstwy odpowiedzialności : możliwości operacji polityki decyzji zobowiązań 
+217. Przyglądamy się różnym prędkościom rozwoju warstw ale też patrzymy na cały kod
