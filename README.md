@@ -221,3 +221,5 @@
 216. Warstwy odpowiedzialności : możliwości operacji polityki decyzji zobowiązań 
 217. Przyglądamy się różnym prędkościom rozwoju warstw ale też patrzymy na cały kod
 218. Awaria nowego modelu podczas zapisu nie powinny wpłynąć na działanie starego modelu, dane nie mogą się rozsynchronizować, najlepiej stosować różne bazy przełączać systemy feature flags
+219. Duży model biznesowy powoduje splatanie biznesowych kontekstów 
+
