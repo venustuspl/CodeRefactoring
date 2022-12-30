@@ -224,3 +224,5 @@
 219. Duży model biznesowy powoduje splatanie biznesowych kontekstów 
 220. Główne pytanie to np. Co dany model robi
 221. Testy modeli można oprzeć na wcześniej zebranych danych w bazie testowej
+222. Nie upychać nić w kodzie na siłę - YAGNI
+
