@@ -225,4 +225,6 @@
 220. Główne pytanie to np. Co dany model robi
 221. Testy modeli można oprzeć na wcześniej zebranych danych w bazie testowej
 222. Nie upychać nić w kodzie na siłę - YAGNI
+223. 
+Żaden model nie powinien być wprowadzany tylko dlatego, że używa go firma x czy y, lub jest modny
 
