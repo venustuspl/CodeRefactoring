@@ -228,3 +228,5 @@
 223. 
 Żaden model nie powinien być wprowadzany tylko dlatego, że używa go firma x czy y, lub jest modny
 
+224. 
+Rozdzielając system należy zadbać o właściwą komunikację modułów
