@@ -230,3 +230,5 @@
 
 224. 
 Rozdzielając system należy zadbać o właściwą komunikację modułów
+225. Dla bezpieczeństwa przesyłanych komunikatów między modułami można użyć wzorca transaction-box, który czasowo przechowa komunikat do czasu potwierdzenia poprawnego wysłania
+
