@@ -228,3 +228,4 @@
 223. Żaden model nie powinien być wprowadzany tylko dlatego, że używa go firma x czy y, lub jest modny
 224. Rozdzielając system należy zadbać o właściwą komunikację modułów
 225. Dla bezpieczeństwa przesyłanych komunikatów między modułami można użyć wzorca transaction-box, który czasowo przechowa komunikat do czasu potwierdzenia poprawnego wysłania
+226. Zwykle wybiera się między komunikacją synchroniczną a asynchroniczną
