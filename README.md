@@ -230,4 +230,4 @@
 225. Dla bezpieczeństwa przesyłanych komunikatów między modułami można użyć wzorca transaction-box, który czasowo przechowa komunikat do czasu potwierdzenia poprawnego wysłania
 226. Zwykle wybiera się między komunikacją synchroniczną a asynchroniczną
 227. Deployment wdrożenie, realese wydanie
-
+228. Branch by abstraction wzorzec który grupuje moduły w jedną abstrakcję
