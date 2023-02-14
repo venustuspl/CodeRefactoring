@@ -231,3 +231,4 @@
 226. Zwykle wybiera się między komunikacją synchroniczną a asynchroniczną
 227. Deployment wdrożenie, realese wydanie
 228. Branch by abstraction wzorzec który grupuje moduły w jedną abstrakcję
+229. Api z dedykowanymi interfejsami typu rest będzie najlepszym rozwiązaniem do wspólnej pracy kilku zespołów 
