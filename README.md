@@ -234,3 +234,4 @@
 229. Api z dedykowanymi interfejsami typu rest będzie najlepszym rozwiązaniem do wspólnej pracy kilku zespołów 
 230. Orkiestracja wykonania procesu to wydzielenie jednej jednostki odpowiedzialnej za cały proces
 231. Holografia - każda jednostka reaguje niezależnie na zachowania i publikuje swoje kolejne
+232. Change data capture (CDC) is the process of recognising when data has been changed in a source system so a downstream process or system can action that change
