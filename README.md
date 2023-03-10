@@ -236,3 +236,4 @@
 231. Holografia - każda jednostka reaguje niezależnie na zachowania i publikuje swoje kolejne
 232. Change data capture (CDC) is the process of recognising when data has been changed in a source system so a downstream process or system can action that change
 233. Debezium is an open source distributed platform for change data capture
+234. Aspekty używać w: wyjątki , logowanie, obsługa błędów
