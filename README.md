@@ -238,3 +238,4 @@
 233. Debezium is an open source distributed platform for change data capture
 234. Aspekty używać w: wyjątki , logowanie, obsługa błędów
 235. Aspekty używać w: wyjątki , logowanie, obsługa błędów
+236. Arround dodokoła
